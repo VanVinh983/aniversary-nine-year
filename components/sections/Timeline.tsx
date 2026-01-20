@@ -10,8 +10,8 @@ const milestones = [
   },
   {
     year: "Năm 2",
-    title: "Hẹn hò",
-    description: "Những buổi chiều tay trong tay, những nụ hôn vụng dại.",
+    title: "Thử thách",
+    description: "Thử thách yêu xa.",
   },
   {
     year: "Năm 3",

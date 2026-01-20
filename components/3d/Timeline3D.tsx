@@ -7,7 +7,7 @@ import { useFrame } from "@react-three/fiber";
 
 const milestones = [
   { year: "Năm 1", title: "Ngày đầu tiên" },
-  { year: "Năm 2", title: "Hẹn hò" },
+  { year: "Năm 2", title: "Thử thách" },
   { year: "Năm 3", title: "Thấu hiểu" },
   { year: "Năm 4", title: "Khoảng cách" },
   { year: "Năm 5", title: "Giông bão" },

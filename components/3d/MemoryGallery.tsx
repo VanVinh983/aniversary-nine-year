@@ -53,7 +53,7 @@ function FloatingImage({
     <group ref={ref} position={position} rotation={rotation}>
       <Image
         url={url}
-        scale={[3.5, 4.5, 1]} // Fixed scale - no zoom effect
+        scale={[3.5, 4.5]} // Fixed scale - no zoom effect
         transparent
         opacity={active ? 1 : 0.3} // Fade out when far
         onClick={(e) => {
